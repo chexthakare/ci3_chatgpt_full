@@ -252,8 +252,8 @@ For issues and questions:
 
 For questions or suggestions, feel free to reach out via:
 - GitHub Issues
-- Email: your-email@example.com
 
 ---
 
 **Enjoy building with CI3 ChatGPT Full!**
+
